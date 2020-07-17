@@ -1,0 +1,3 @@
+displayName = Penumbral's Smoother Screen/Player animations
+author = Penumbral Gaming
+version = 1.0
