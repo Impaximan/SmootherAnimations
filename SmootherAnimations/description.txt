@@ -1,1 +1,0 @@
-Hey all! This is an extremely small mod I made that does a few things with the camera, similarly to what Terraria Overhaul does. It also makes the player's direction always face the mouse.
